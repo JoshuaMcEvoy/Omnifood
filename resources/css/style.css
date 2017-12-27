@@ -8,7 +8,7 @@
 
 .clearfix {zoom: 1}
 .clearfix:after {
-  content: '.';
+  content: '';
   clear: both;
   display: block;
   visibility: hidden;
