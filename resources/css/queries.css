@@ -30,6 +30,7 @@
 
   .mobile-nav-icon {
     display: inline-block;
+    border: 0;
   }
 
   .main-nav li {
@@ -53,9 +54,11 @@
   .sticky .main-nav li a:visited {
     padding: 10px 0;
   }
+
   .sticky .mobile-nav-icon {
     margin-top: 10px;
   }
+
   .sticky .mobile-nav-icon i {
     color: #555;
   }
