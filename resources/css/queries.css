@@ -22,6 +22,7 @@
   }
 
   .main-nav {
+    display: none;
     float: left;
     margin-top: 35px;
     margin-left: 35px;
